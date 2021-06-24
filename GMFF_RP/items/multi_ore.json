@@ -1,0 +1,13 @@
+{
+	"format_version": "1.10",
+	"minecraft:item": {
+		"description": {
+			"identifier": "gmff:multi_ore",
+			"category": "miscellaneous"
+		},
+		"components": {
+			"minecraft:icon": "multi_ore",
+			"minecraft:render_offsets": "miscellaneous"
+		}
+	}
+}

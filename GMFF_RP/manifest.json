@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "testing",
+    "name": "GMFF",
+    "uuid": "0f2df4ff-8122-49ce-b2c3-03d57efe32fe",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 17, 0]
+  },
+  "modules": [
+    {
+      "description": "testing",
+      "type": "resources",
+      "uuid": "a903da2d-8d7e-4559-81a9-6aa9ad6ed11a",
+      "version": [1, 0, 0]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:block": {
+		"description": {
+			"identifier" : "gmff:all_ore"
+		},
+		"components": {
+			"minecraft:destroy_time" : 1.0,
+			"minecraft:explosion_resistance" : 0.5,
+			"minecraft:loot" : "loot_table/blocks/all_ore.json"
+		}
+	}
+}

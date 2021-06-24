@@ -1,0 +1,13 @@
+{
+	"format_version": "1.10",
+	"minecraft:item": {
+		"description": {
+			"identifier": "gmff:multi_sword",
+			"category": "equipment"
+		},
+		"components": {
+			"minecraft:icon": "multi_sword",
+			"minecraft:render_offsets": "miscellaneous"
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+   "format_version" : [ 1, 1, 0 ],
+   "gmff:all_ore" : {
+      "sound" : "stone",
+      "textures" : "all_ore"
+   }
+}
